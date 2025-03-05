@@ -18,3 +18,11 @@ nav ul {
 nav li {
     list-style-type: none;
 }
+
+article img {
+    float: left;
+}
+
+iframe {
+   max-width: 100%;
+}
